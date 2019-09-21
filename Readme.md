@@ -1,7 +1,7 @@
-# Личный проект «Нёрдс»
+﻿# Личный проект «Нёрдс»
 
 * Студент: [Ekaterina Mubarakova](https://up.htmlacademy.ru/htmlcss/26/user/1179467).
-* Наставник: `Неизвестно`.
+* Наставник: [Александр Уразаев](https://htmlacademy.ru/profile/urazaev).
 
 ---
 
